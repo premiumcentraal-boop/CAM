@@ -1,0 +1,18 @@
+# Built application package files
+build/
+.gradle/
+local.properties
+*.iml
+.idea/
+captures/
+.externalNativeBuild
+.cxx
+
+# Persona feed assets never in git (persona privacy)
+*.mp4
+personas/*/feeds/
+!personas/sample/
+
+# OS
+.DS_Store
+Thumbs.db

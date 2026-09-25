@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CAM Demo</string>
+    <string name="tab_api1">API1</string>
+    <string name="tab_api2">API2</string>
+    <string name="tab_camerax">CameraX</string>
+    <string name="tab_probe">Probe</string>
+    <string name="captured_bytes">Captured %1$d bytes</string>
+    <string name="camera_error">Camera error: %1$d</string>
+    <string name="no_camera">No camera on device</string>
+    <string name="probe_saved">Saved to %1$s</string>
+    <string name="capture">Capture</string>
+    <string name="close">Close</string>
+</resources>
